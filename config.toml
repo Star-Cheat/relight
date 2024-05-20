@@ -32,13 +32,13 @@ GoogleAdsClient = '' # Google AdSense
 key = "085791e805a24491b43b06cf58ab31e7"
 
 [params.images]
-favicon = "/assets/images/favicon.ico"
+favicon = "/assets/images/404.ico"
 searchImageL = "/assets/images/bg.jpg"        # 搜索部分浅色背景图
 searchImageD = "/assets/images/bg.jpg"        # 搜索部分深色背景图
-logoExpandLight = "/assets/images/logo.png"
-logoExpandDark = "/assets/images/logo.png"
-logoCollapseLight = "/assets/images/logo.png"
-logoCollapseDark = "/assets/images/logo.png"
+logoExpandLight = "/assets/images/404.png"
+logoExpandDark = "/assets/images/404.png"
+logoCollapseLight = "/assets/images/404.png"
+logoCollapseDark = "/assets/images/404.png"
 
 [markup.goldmark.renderer]
 unsafe = true
