@@ -33,10 +33,6 @@
     - title: 忧郁的loli
       logo: https://www.ttloli.com/wp-content/themes/mygalgame/ui/images/cover2.jpg
       url: https://github.com/DIYgod/RSSHub
-      description: 一切都是RSSible。
-    - title: top-rss-list
-      logo: github.jpg
-      url: https://www.ttloli.com/
       description: Emmm
     - title: 天游二次元
       logo: https://ds.tianshi.info/uploads/2022/04/cropped-2022042217411468-32x32.png
@@ -51,21 +47,13 @@
       url: https://www.shinnku.com/
       description: 十分简约的一个站点。
     - title: 光坂小镇
-      logo: 
-      url: https://github.com/zadam/trilium
-      description: 使用 Trilium Notes 建立您的个人知识库。
-    - title: e9x
-      logo: e9x.png
-      url: https://github.com/weekend-project-space/e9x-fun
-      description: 一键免费部署自己的导航。
-    - title: web tv
-      logo: web-tv.png
-      url: https://github.com/weekend-project-space/web-tv
-      description: 一键免费部署自己的在线小电视。
-    - title: web fm
-      logo: 01234.png
-      url: https://github.com/weekend-project-space/fm-online
-      description: 一键免费部署自己的在线FM，收听全球广播。
+      logo: https://www.clfans.club/wp-content/uploads/2021/07/162758491651663.png
+      url: https://www.clfans.club/
+      description: 个人感觉比较麻烦。
+    - title: GGBases
+      logo: https://ggbases.dlgal.com/favicon.ico
+      url: https://ggbases.dlgal.com/
+      description: 主生肉BT
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
