@@ -1,31 +1,31 @@
 ---
-- taxonomy: just
+- taxonomy: 下载站
   icon: far fa-star
   links:
-    - title: Cloudreve
-      logo: "https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png"
-      url: https://github.com/cloudreve/Cloudreve
-      description: 具有多云支持的自托管文件管理系统。
-    - title: youtube-dl
-      logo: github.jpg
-      url: https://github.com/ytdl-org/youtube-dl
-      description: 从 youtube.com 或其他视频平台下载视频。
-    - title: you-get
-      logo: github.jpg
-      url: https://github.com/soimort/you-get
-      description: 用于从 Web 下载媒体内容（视频、音频、图像），以防万一没有其他方便的方法来执行此操作。。
-    - title: mmPlayer
-      logo: QQ音乐.jpg
-      url: https://github.com/maomao1996/Vue-mmPlayer
-      description: mmPlayer 是由茂茂开源的一款在线音乐播放器，具有音乐搜索、播放、歌词显示、播放历史、查看歌曲评论、网易云用户歌单播放同步等功能。
-    - title: nuclear
-      logo: https://camo.githubusercontent.com/3bb53de3e077dd54d2fb2cf66a88f5b680fa6e1ce921b2391715fed7371c7298/68747470733a2f2f692e696d6775722e636f6d2f6f5431303036692e706e67
-      url: https://github.com/nukeop/nuclear
-      description: 专注于从免费资源流式传输的桌面音乐播放器。
-    - title: MyBookshelf
-      logo: github.jpg
-      url: https://github.com/gedoor/MyBookshelf
-      description: 是一款可以自定义网络来源内容的阅读工具。
+    - title: TouchGal
+      logo: https://npm.elemecdn.com/touchgalstatic1@0.0.3/img/Cn08U.png
+      url: https://www.touchgal.me/
+      description: 为Galgame爱好者而生,免费•高质量
+    - title: 初音的青葱
+      logo: https://ffgal.com/static/img/logo2.c3f7ebe.png
+      url: https://ffgal.com/
+      description: 初音的青葱
+    - title: 量子ACG
+      logo: https://lzacg.org/
+      url: https://lzacg.org/
+      description: Check out
+    - title: 绯月论坛
+      logo: https://bbs.kfpromax.com/favicon.ico
+      url: https://bbs.kfpromax.com/
+      description: 适合新人，十分推荐注册上手。
+    - title: 南+(论坛)
+      logo: https://www.south-plus.net/images/colorImagination/logo-spring-south.png36692e706e67
+      url: https://www.south-plus.net/
+      description: 十分有特色的论坛
+    - title: 花火学园
+      logo: https://www.sayhuahuo.xyz/static/image/common/sayhanabi_header.png
+      url: https://www.sayhuahuo.xyz/
+      description: 花火论坛也是很老很实用的论坛
     - title: novel
       logo: github.jpg
       url: https://github.com/201206030/novel
