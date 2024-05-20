@@ -1,6 +1,6 @@
 baseURL = "https://galgame.us/"
 languageCode = "zh-CN"
-title = "Galgame point us"
+title = "𝙂𝙖𝙡𝙜𝙖𝙢𝙚 𝙋𝙤𝙞𝙣𝙩 𝙪𝙨"
 preserveTaxonomyNames = true
 disablePathToLower = true
 hasCJKLanguage = true
@@ -9,15 +9,15 @@ publishDir = "public"        # 站点静态文件保存目录
 
 [params]
 author = "weekend-project"
-description = "Galgame point us"
+description = "𝙂𝙖𝙡𝙜𝙖𝙢𝙚 𝙋𝙤𝙞𝙣𝙩 𝙪𝙨"
 upload = "https://github.com/weekend-project-space/e9x-fun/discussions" # 左侧导航栏的"网站提交"
 about = "/about"                                                        # 左侧导航栏的"关于导航"页面(./about)
 repository = "https://github.com/weekend-project-space/e9x-fun"
 enablePreLoad = true                                                    # 网站完全打开前预加载动画
-textPreLoad = "Galgame point us"                                                     # 预加载的动画文字, 只有当enablePreLoad=true时生效
+textPreLoad = "𝙂𝙖𝙡𝙜𝙖𝙢𝙚 𝙋𝙤𝙞𝙣𝙩 𝙪𝙨"                                                     # 预加载的动画文字, 只有当enablePreLoad=true时生效
 expandSidebar = false                                                   # 默认展开左侧边导航栏
 logosPath = "assets/images/logos"                                       # 网站每个导航地址logo存放地址
-defaultLogo = "assets/images/logos/default.webp"                        # logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
+defaultLogo = "/assets/images/404.png"                        # logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
 nightMode = false                                                       # 默认站点为深色(夜间)模式
 yiyan = true                                                            # 默认启用一言服务
 
@@ -44,4 +44,4 @@ logoCollapseDark = "/assets/images/404.png"
 unsafe = true
 
 [params.footer]
-copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱test@gamil.com'
+copyright = '联系站长→ sct.moe'
