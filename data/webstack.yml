@@ -88,3 +88,7 @@
           url: https://github.com/RetCute/GalTranslator
           logo: github.jpg
           description: AI翻译器
+        - title: MisakaTranslator
+          url: https://github.com/hanmin0822/MisakaTranslator
+          logo: github.jpg
+          description: 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
