@@ -6,7 +6,6 @@ disablePathToLower = true
 hasCJKLanguage = true
 publishDir = "public"        # 站点静态文件保存目录
 
-
 [params]
 author = "weekend-project"
 description = "𝙂𝙖𝙡𝙜𝙖𝙢𝙚 𝙋𝙤𝙞𝙣𝙩 𝙪𝙨"
@@ -48,4 +47,3 @@ unsafe = true
 text = "萌ICP备20249088号"
 url = "https://icp.gov.moe/?keyword=20249088"
 target = "_blank"
-
