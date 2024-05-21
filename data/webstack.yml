@@ -2,17 +2,17 @@
 - taxonomy: 下载站
   icon: far fa-star
   list:
-    - term: 生肉
+    - term: 熟肉
       links:
-     - title: TouchGal
+    - title: TouchGal
       logo: https://npm.elemecdn.com/touchgalstatic1@0.0.3/img/Cn08U.png
       url: https://www.touchgal.me/
       description: 为Galgame爱好者而生,免费•高质量
-     - title: 初音的青葱
+    - title: 初音的青葱
       logo: https://ffgal.com/static/img/logo2.c3f7ebe.png
       url: https://ffgal.com/
       description: 初音的青葱
-     - title: 量子ACG
+    - title: 量子ACG
       logo: https://lzacg.org/
       url: https://lzacg.org/
       description: Check out
