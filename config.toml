@@ -44,4 +44,4 @@ logoCollapseDark = "/assets/images/404.png"
 unsafe = true
 
 [params.footer]
-copyright = <a href="https://icp.gov.moe/?keyword=20249088" target="_blank">萌ICP备20249088号</a>
+a href="https://icp.gov.moe/?keyword=20249088" target="_blank">萌ICP备20249088号</a>
