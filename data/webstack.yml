@@ -2,9 +2,9 @@
 - taxonomy: 下载站
   icon: far fa-star
   list:
-    - term: 熟肉
+    - term: 生肉
       links:
-    - title: TouchGal
+        - title: TouchGal
       logo: https://npm.elemecdn.com/touchgalstatic1@0.0.3/img/Cn08U.png
       url: https://www.touchgal.me/
       description: 为Galgame爱好者而生,免费•高质量
@@ -52,10 +52,9 @@
       logo: https://www.clfans.club/wp-content/uploads/2021/07/162758491651663.png
       url: https://www.clfans.club/
       description: 个人感觉比较麻烦。
-      
     - term: 生肉
       links:
-    - title: GGBases
+        - title: GGBases
       logo: https://ggbases.dlgal.com/favicon.ico
       url: https://ggbases.dlgal.com/
       description: 主生肉BT
