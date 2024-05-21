@@ -1,98 +1,97 @@
----
-- taxonomy: 下载站
-  icon: far fa-star
-  list:
-    - term: 熟肉
-      links:
-    - title: TouchGal
-      logo: https://npm.elemecdn.com/touchgalstatic1@0.0.3/img/Cn08U.png
-      url: https://www.touchgal.me/
-      description: 为Galgame爱好者而生,免费•高质量
-    - title: 初音的青葱
-      logo: https://ffgal.com/static/img/logo2.c3f7ebe.png
-      url: https://ffgal.com/
-      description: 初音的青葱
-    - title: 量子ACG
-      logo: https://lzacg.org/
-      url: https://lzacg.org/
-       description: Check out
-     - title: 绯月论坛
-      logo: https://bbs.kfpromax.com/favicon.ico
-      url: https://bbs.kfpromax.com/
-      description: 适合新人，十分推荐注册上手。
-     - title: 南+(论坛)
-      logo: https://www.south-plus.net/images/colorImagination/logo-spring-south.png36692e706e67
-      url: https://www.south-plus.net/
-      description: 十分有特色的论坛
-     - title: 花火学园
-      logo: https://www.sayhuahuo.xyz/static/image/common/sayhanabi_header.png
-      url: https://www.sayhuahuo.xyz/
-      description: 花火论坛也是很老很实用的论坛
-     - title: ACGNGAME
-      logo: https://acgngames.net/img/logo.808b76fd.png
-      url: https://acgngames.net/
-      description: gal资源比较多
-     - title: 忧郁的loli
-      logo: https://www.ttloli.com/wp-content/themes/mygalgame/ui/images/cover2.jpg
-      url: https://github.com/DIYgod/RSSHub
-      description: Emmm
-     - title: 天游二次元
-      logo: https://ds.tianshi.info/uploads/2022/04/cropped-2022042217411468-32x32.png
-      url: https://www.tiangal.com/
-      description: 商业化较高，但主要还是用爱发电。
-     - title: 神隐之乡
-      logo: https://upload-images-cdn.syzx.me/i/1f6a6ead07340f84b70bc32b9f7a617b.webp
-      url: https://syzx.me/
-      description: 很有特点的gal资源博客
-     - title: 失落的小站
-      logo: https://www.shinnku.com/_next/image?url=/assets/upsetgal-logo.png&w=2048&q=75
-      url: https://www.shinnku.com/
-      description: 十分简约的一个站点。
-     - title: 光坂小镇
-      logo: https://www.clfans.club/wp-content/uploads/2021/07/162758491651663.png
-      url: https://www.clfans.club/
-      description: 个人感觉比较麻烦。
+taxonomy: 下载站
+icon: far fa-star
+list:
+  - term: 熟肉
+    links:
+      - title: TouchGal
+        logo: https://npm.elemecdn.com/touchgalstatic1@0.0.3/img/Cn08U.png
+        url: https://www.touchgal.me/
+        description: 为Galgame爱好者而生,免费•高质量
+      - title: 初音的青葱
+        logo: https://ffgal.com/static/img/logo2.c3f7ebe.png
+        url: https://ffgal.com/
+        description: 初音的青葱
+      - title: 量子ACG
+        logo: https://lzacg.org/
+        url: https://lzacg.org/
+        description: Check out
+      - title: 绯月论坛
+        logo: https://bbs.kfpromax.com/favicon.ico
+        url: https://bbs.kfpromax.com/
+        description: 适合新人，十分推荐注册上手。
+      - title: 南+(论坛)
+        logo: https://www.south-plus.net/images/colorImagination/logo-spring-south.png36692e706e67
+        url: https://www.south-plus.net/
+        description: 十分有特色的论坛
+      - title: 花火学园
+        logo: https://www.sayhuahuo.xyz/static/image/common/sayhanabi_header.png
+        url: https://www.sayhuahuo.xyz/
+        description: 花火论坛也是很老很实用的论坛
+      - title: ACGNGAME
+        logo: https://acgngames.net/img/logo.808b76fd.png
+        url: https://acgngames.net/
+        description: gal资源比较多
+      - title: 忧郁的loli
+        logo: https://www.ttloli.com/wp-content/themes/mygalgame/ui/images/cover2.jpg
+        url: https://github.com/DIYgod/RSSHub
+        description: Emmm
+      - title: 天游二次元
+        logo: https://ds.tianshi.info/uploads/2022/04/cropped-2022042217411468-32x32.png
+        url: https://www.tiangal.com/
+        description: 商业化较高，但主要还是用爱发电。
+      - title: 神隐之乡
+        logo: https://upload-images-cdn.syzx.me/i/1f6a6ead07340f84b70bc32b9f7a617b.webp
+        url: https://syzx.me/
+        description: 很有特点的gal资源博客
+      - title: 失落的小站
+        logo: https://www.shinnku.com/_next/image?url=/assets/upsetgal-logo.png&w=2048&q=75
+        url: https://www.shinnku.com/
+        description: 十分简约的一个站点。
+      - title: 光坂小镇
+        logo: https://www.clfans.club/wp-content/uploads/2021/07/162758491651663.png
+        url: https://www.clfans.club/
+        description: 个人感觉比较麻烦。
     - term: 生肉
       links:
-     - title: GGBases
-      logo: https://ggbases.dlgal.com/favicon.ico
-      url: https://ggbases.dlgal.com/
-      description: 主生肉BT
+        - title: GGBases
+          logo: https://ggbases.dlgal.com/favicon.ico
+          url: https://ggbases.dlgal.com/
+          description: 主生肉BT
 - taxonomy: 资讯&攻略
   icon: fas fa-flask fa-lg
   links:
-        - title: VNDB
-          logo: https://vndb.org/favicon.ico
-          url: https://vndb.org/
-          description: gal老手经常用到的网站
-        - title: 2DFan
-          logo: https://2dfan.com/favicon.ico
-          url: https://2dfan.com/
-          description: 主要是找gal的补丁、攻略和存档。
-        - title: 月幕Galgame
-          logo: https://www.ymgal.games/static/ym-main-logo.png
-          url: https://www.ymgal.games/
-          description: 专注galgame内容分享的个人网站
-        - title: Gal图书馆
-          logo: https://gallibrary.pw/favicon.ico
-          url: https://gallibrary.pw/
-          description: 可以当wiki来看，有资源可下载。
-        - title: CnGal资料站
-          logo: https://www.cngal.org/favicon.ico
-          url: https://www.cngal.org/
-          description: 自如其名
+    - title: VNDB
+      logo: https://vndb.org/favicon.ico
+      url: https://vndb.org/
+      description: gal老手经常用到的网站
+    - title: 2DFan
+      logo: https://2dfan.com/favicon.ico
+      url: https://2dfan.com/
+      description: 主要是找gal的补丁、攻略和存档。
+    - title: 月幕Galgame
+      logo: https://www.ymgal.games/static/ym-main-logo.png
+      url: https://www.ymgal.games/
+      description: 专注galgame内容分享的个人网站
+    - title: Gal图书馆
+      logo: https://gallibrary.pw/favicon.ico
+      url: https://gallibrary.pw/
+      description: 可以当wiki来看，有资源可下载。
+    - title: CnGal资料站
+      logo: https://www.cngal.org/favicon.ico
+      url: https://www.cngal.org/
+      description: 自如其名
 - taxonomy: 工具
   icon: fas fa-tools fa-lg
   links:
-        - title: 模拟器
-          url: https://zi0.cc/!【模拟器&工具】
-          logo: https://i.mij.rip/2023/01/23/2b6331a29bf32d2af96a2537e10a5ee8.webp
-          description: 无需解释
-        - title: GalTranslator
-          url: https://github.com/RetCute/GalTranslator
-          logo: github.jpg
-          description: AI翻译器
-        - title: MisakaTranslator
-          url: https://github.com/hanmin0822/MisakaTranslator
-          logo: github.jpg
-          description: 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
+    - title: 模拟器
+      url: https://zi0.cc/!【模拟器&工具】
+      logo: https://i.mij.rip/2023/01/23/2b6331a29bf32d2af96a2537e10a5ee8.webp
+      description: 无需解释
+    - title: GalTranslator
+      url: https://github.com/RetCute/GalTranslator
+      logo: github.jpg
+      description: AI翻译器
+    - title: MisakaTranslator
+      url: https://github.com/hanmin0822/MisakaTranslator
+      logo: github.jpg
+      description: 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
