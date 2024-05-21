@@ -4,27 +4,26 @@ title = "𝙂𝙖𝙡𝙜𝙖𝙢𝙚 𝙋𝙤𝙞𝙣𝙩 𝙪𝙨"
 preserveTaxonomyNames = true
 disablePathToLower = true
 hasCJKLanguage = true
-publishDir = "public"        # 站点静态文件保存目录
-
+publishDir = "public"        # Site static file save directory
 
 [params]
 author = "weekend-project"
 description = "𝙂𝙖𝙡𝙜𝙖𝙢𝙚 𝙋𝙤𝙞𝙣𝙩 𝙪𝙨"
-upload = "https://blog.sct.moe/archives/ACGN-Start" # 左侧导航栏的"网站提交"
-about = "/about"                                                        # 左侧导航栏的"关于导航"页面(./about)
+upload = "https://blog.sct.moe/archives/ACGN-Start" # "Website Submission" in the left navigation bar
+about = "/about"                                                        # "About Navigation" page on the left navigation bar (./about)
 repository = "https://github.com/weekend-project-space/e9x-fun"
-enablePreLoad = true                                                    # 网站完全打开前预加载动画
-textPreLoad = "𝙂𝙖𝙡𝙜𝙖𝙢𝙚 𝙋𝙤𝙞𝙣𝙩 𝙪𝙨"                                                     # 预加载的动画文字, 只有当enablePreLoad=true时生效
-expandSidebar = false                                                   # 默认展开左侧边导航栏
-logosPath = "assets/images/logos"                                       # 网站每个导航地址logo存放地址
-defaultLogo = "/assets/images/404.png"                        # logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
-nightMode = false                                                       # 默认站点为深色(夜间)模式
-yiyan = false                                                            # 默认启用一言服务
+enablePreLoad = true                                                    # Preload animation before the website fully opens
+textPreLoad = "𝙂𝙖𝙡𝙜𝙖𝙢𝙚 𝙋𝙤𝙞𝙣𝙩 𝙪𝙨"                                                     # Text of the preload animation, effective only when enablePreLoad=true
+expandSidebar = false                                                   # Default expand left side navigation bar
+logosPath = "assets/images/logos"                                       # Navigation address logo storage address of the website
+defaultLogo = "/assets/images/404.png"                        # Default logo displayed when logo image resource does not exist or error; If this parameter is empty, the corresponding logo will continue to be loaded until successful
+nightMode = false                                                       # Default site is in dark (night) mode
+yiyan = false                                                            # Enable Yan service by default
 
 [params.seo]
-baiduhmid = '69748c135beab0a8530e9c8397f68d24' # 百度统计 hm.src 的 ID
-## baiduSiteVer    = 'codeva-cCAOSG8MBO'			# 百度HTML标签验证(baidu-site-verification)
-tj51laid = ''        # 51.LA 网站统计
+baiduhmid = '69748c135beab0a8530e9c8397f68d24' # Baidu statistics hm.src ID
+## baiduSiteVer    = 'codeva-cCAOSG8MBO'			# Baidu HTML tag verification (baidu-site-verification)
+tj51laid = ''        # 51.LA website statistics
 tj51lack = ''
 GoogleAdsClient = '' # Google AdSense 
 
@@ -33,7 +32,18 @@ key = "085791e805a24491b43b06cf58ab31e7"
 
 [params.images]
 favicon = "/assets/images/404.ico"
-searchImageL = "/assets/images/bg.jpg"        # 搜索部分浅色背景图
+searchImageL = "/assets/images/bg.jpg"        # Light background image of the search section
+searchImageD = "/assets/images/bg.jpg"        # Dark background image of the search section
+logoExpandLight = "/assets/images/404.png"
+logoExpandDark = "/assets/images/404.png"
+logoCollapseLight = "/assets/images/404.png"
+logoCollapseDark = "/assets/images/404.png"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params.footer]
+link = { text = "萌ICP备20249088号", url = "https://icp.gov.moe/?keyword=20249088", target = "_blank" } # Verify if there are any TOML syntax errors and correct them
 searchImageD = "/assets/images/bg.jpg"        # 搜索部分深色背景图
 logoExpandLight = "/assets/images/404.png"
 logoExpandDark = "/assets/images/404.png"
