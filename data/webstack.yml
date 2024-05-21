@@ -54,6 +54,10 @@
         description: 个人感觉比较麻烦
   - term: 生肉
     links:
+        - title: Nyaa
+          logo: https://img.xwyue.com/i/2024/05/21/664c9f91076d9.png
+          url: https://sukebei.nyaa.si/
+          description: 万能nyaa！很多galgame新作都能找到，老游戏也有，可能速度不佳；有汉化，但大部分以生肉为主。
         - title: GGBases
           logo: https://ggbases.dlgal.com/favicon.ico
           url: https://ggbases.dlgal.com/
