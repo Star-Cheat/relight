@@ -1,6 +1,7 @@
-taxonomy: 下载站
-icon: far fa-star
-list:
+---
+- taxonomy: 下载站
+  icon: far fa-star
+  list:
   - term: 熟肉
     links:
       - title: TouchGal
