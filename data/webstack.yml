@@ -2,7 +2,7 @@
 - taxonomy: 下载站
   icon: far fa-star
   list:
-    - term: 熟肉
+     - term: 熟肉
     links:
     - title: TouchGal
       logo: https://npm.elemecdn.com/touchgalstatic1@0.0.3/img/Cn08U.png
