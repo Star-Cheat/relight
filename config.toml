@@ -44,4 +44,8 @@ logoCollapseDark = "/assets/images/404.png"
 unsafe = true
 
 [params.footer]
-link = { text = "萌ICP备20249088号", url = "https://icp.gov.moe/?keyword=20249088", target = "_blank" }
+[link]
+text = "萌ICP备20249088号"
+url = "https://icp.gov.moe/?keyword=20249088"
+target = "_blank"
+
