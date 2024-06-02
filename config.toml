@@ -16,7 +16,7 @@ enablePreLoad = true                                                    # 网站
 textPreLoad = "𝙂𝙖𝙡𝙜𝙖𝙢𝙚 𝙋𝙤𝙞𝙣𝙩 𝙪𝙨"                                                     # 预加载的动画文字, 只有当enablePreLoad=true时生效
 expandSidebar = false                                                   # 默认展开左侧边导航栏
 logosPath = "assets/images/logos"                                       # 网站每个导航地址logo存放地址
-defaultLogo = "/assets/images/404.png"                        # logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
+defaultLogo = "/assets/images/Galgame_ba-style@nulla.top.png"                        # logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
 nightMode = false                                                       # 默认站点为深色(夜间)模式
 yiyan = false                                                            # 默认启用一言服务
 
@@ -34,10 +34,10 @@ key = "085791e805a24491b43b06cf58ab31e7"
 favicon = "/assets/images/404.ico"
 searchImageL = "/assets/images/bg.jpg"        # 搜索部分浅色背景图
 searchImageD = "/assets/images/bg.jpg"        # 搜索部分深色背景图
-logoExpandLight = "/assets/images/404.png"
-logoExpandDark = "/assets/images/404.png"
-logoCollapseLight = "/assets/images/404.png"
-logoCollapseDark = "/assets/images/404.png"
+logoExpandLight = "/assets/images/Galgame_ba-style@nulla.top.png"
+logoExpandDark = "/assets/images/Galgame_ba-style@nulla.top.png"
+logoCollapseLight = "/assets/images/Galgame_ba-style@nulla.top.png"
+logoCollapseDark = "/assets/images/Galgame_ba-style@nulla.top.png"
 
 [markup.goldmark.renderer]
 unsafe = true
